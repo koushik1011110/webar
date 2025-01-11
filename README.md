@@ -1,2 +1,2 @@
 # webxr-js-hit-test
-Link: https://allinreality.github.io/webxrapi_tutorial/
+Link: https://koushik1011110.github.io/webar/
